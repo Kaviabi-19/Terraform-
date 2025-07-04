@@ -18,7 +18,16 @@
    
       terraform apply
    
-6. 
+5. Thus 5 Vm's launched using terraform
+   
+   ![image](https://github.com/user-attachments/assets/da79bbcb-36ee-4c24-bd39-cec2ba82714d)
+   ![image](https://github.com/user-attachments/assets/bb5a5286-7f8d-4bd9-8738-48a187bc0b8a)
+
+
+
+
+
+
 
 
 
