@@ -11,10 +11,14 @@
 
 3. Open VS Cide -> Create a folder -> create aws.tf file-> write **Script 1**
 4. Open Terminal ->
+   
       terraform init
+   
       terraform plan
+   
       terraform apply
-5. 
+   
+6. 
 
 
 
