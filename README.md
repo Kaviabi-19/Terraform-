@@ -1,7 +1,8 @@
 # Terraform-
 
 # create IAM user
-1. create IAM user and get access & security key
-2. 
+1. create IAM user -> add permissions -> Create access key -> Get access & security key ![Uploading image.png…]()
+
+3. 
 
 
